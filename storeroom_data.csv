@@ -1,0 +1,4 @@
+IDGroup,NumberInGroup,FluidType,FluidAmount,Description
+2,water,750,non flamable
+5,oil,0,flamable
+7,fuel,0,flamable
